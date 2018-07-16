@@ -1,2 +1,2 @@
 # sakura
-A High Performance FTP Server 🌻  
+A High Performance FTP Server 😎
